@@ -1,3 +1,8 @@
 # segment_test
 a segment test base on sushen's blog  
-https://kexue.fm/archives/3924
+这个repo的代码来自于 **[苏剑林的博客](https://kexue.fm/archives/3924 "苏剑林的博客")** ，建议大家都去原博客处看看具体的分析和逻辑思想  
+在这里主要是增加了自己的一些注释和理解，以及python版本的一些切换问题（原博客用的是python2）  
+在这里不讨论准确率等指标问题。。因为主要是理解思想和走一下流程，以及对维特比解码方法的具体应用理解等  
+苏神的博客有很多有趣的思想~建议大家都去看看！
+
+
